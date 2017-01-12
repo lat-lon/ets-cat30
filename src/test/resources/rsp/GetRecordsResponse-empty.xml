@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<csw:GetRecordsResponse version="3.0.0" 
-  xmlns:csw="http://www.opengis.net/cat/csw/3.0" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/" 
-  xmlns:ows="http://www.opengis.net/ows/2.0">
-  <csw:SearchStatus timestamp="2015-03-17T10:09:48Z"/>
-  <csw:SearchResults numberOfRecordsMatched="0" numberOfRecordsReturned="0" />
-</csw:GetRecordsResponse>
